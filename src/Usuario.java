@@ -16,7 +16,7 @@ System.out.println(" novo volume da tv: " + smartTv.volume);
 smartTv.diminuirVolume();
 smartTv.diminuirVolume();
 System.out.println(" novo volume da tv: " + smartTv.volume);
-smartTv.trocarCanal(14);
+smartTv.trocarCanal(13);
 System.out.println(" novo canal da tv: " + smartTv.canal);
 smartTv.aumentarCanal();
 System.out.println(" novo canal da tv: " + smartTv.canal);
